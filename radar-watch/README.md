@@ -18,7 +18,7 @@ radar grid.
 
 1. Install the **M5StickC** board support package and the classic **M5StickC**
    Arduino library.
-2. Open `retro-watch.ino` in Arduino IDE, select **M5StickC** as the board, then
+2. Open `radar-watch.ino` in Arduino IDE, select **M5StickC** as the board, then
    build and upload.
 
 ## Controls
