@@ -1,4 +1,4 @@
-# Retro Watch for M5StickC
+# Radar Watch Face for M5StickC
 
 A futuristic, landscape watch face for the original M5StickC. It shows a
 12-hour clock in Arizona time and an animated radar sweep. Press Button A to
